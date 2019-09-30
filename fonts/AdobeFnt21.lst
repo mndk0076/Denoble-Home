@@ -1,0 +1,91 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/nik/Desktop/INVERLYNN_WEBSITE_2 Folder/Document fonts/AdobeFnt21.lst
+FileLength:1972
+FileModTime:591197900
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ZonaPro-Bold
+FamilyName:Zona Pro
+StyleName:Bold
+MenuName:Zona Pro Bold
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Zona Pro Bold
+WritingScript:Roman
+OutlineFileName:/Users/nik/Desktop/INVERLYNN_WEBSITE_2 Folder/Document fonts/ZonaPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:138700
+FileModTime:419513812
+NameArray:0,Mac,18,Zona Pro Bold
+NameArray:0,Mac,4,Zona Pro Bold
+NameArray:0,Win,1,Zona Pro Bold
+NameArray:0,Win,16,Zona Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ZonaPro-Thin
+FamilyName:Zona Pro
+StyleName:Thin
+MenuName:Zona Pro Thin
+StyleBits:0
+WeightClass:275
+WidthClass:5
+AngleClass:0
+FullName:Zona Pro Thin
+WritingScript:Roman
+OutlineFileName:/Users/nik/Desktop/INVERLYNN_WEBSITE_2 Folder/Document fonts/ZonaPro-Thin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:137976
+FileModTime:419514638
+NameArray:0,Mac,18,Zona Pro Thin
+NameArray:0,Mac,4,Zona Pro Thin
+NameArray:0,Win,1,Zona Pro Thin
+NameArray:0,Win,16,Zona Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/nik/Desktop/INVERLYNN_WEBSITE_2 Folder/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:583080256
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
